@@ -1,9 +1,7 @@
 # What?
-This project is my submission for the final task of Programmable Web Project
-course at University of Oulu. If you are unfamiliar with the course, consider
-this repository as a reference implementation for simplistic flask-to-redis
-file storage API. Otherwise, read on.
 
+This is a small API that will be integrated to the next version of the Lovelace learning environment 
+ecosystem as a microservice for storing and sharing files between components of the system. 
 
 
 
